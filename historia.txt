@@ -2,3 +2,5 @@ Esta es la historia de Richard
 Rolando es mi hermano nacio en colombia tiene 31 años 
 pero ya casi cumple años de nuevo
 Hoy hablaremos de git.
+
+En camara parece alto pero la verdad no es tan alto.
