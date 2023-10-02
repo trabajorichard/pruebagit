@@ -9,5 +9,7 @@ quiero hacer un cambio y actualizar mi repositorio en la web
 
 quiiero enviar este cambio a local
 
+probar en una rama de prueba
+
 Mañana nos enfocaremos en su vida amorosa ahora.
 
