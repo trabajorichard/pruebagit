@@ -12,7 +12,10 @@ quiiero enviar este cambio a local
 <<<<<<< HEAD
 Cambio entre ramas en local y traer desde la web
 =======
+
+
 probar en una rama de prueba
+en otra parte para corregir el error de la misma linea
 >>>>>>> pruebarama1
 
 Mañana nos enfocaremos en su vida amorosa ahora.
