@@ -9,5 +9,7 @@ quiero hacer un cambio y actualizar mi repositorio en la web
 
 quiiero enviar este cambio a local
 
+Cambio entre ramas en local y traer desde la web
+
 Mañana nos enfocaremos en su vida amorosa ahora.
 
