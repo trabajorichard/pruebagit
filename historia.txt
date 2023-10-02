@@ -9,7 +9,11 @@ quiero hacer un cambio y actualizar mi repositorio en la web
 
 quiiero enviar este cambio a local
 
+<<<<<<< HEAD
 Cambio entre ramas en local y traer desde la web
+=======
+probar en una rama de prueba
+>>>>>>> pruebarama1
 
 Mañana nos enfocaremos en su vida amorosa ahora.
 
